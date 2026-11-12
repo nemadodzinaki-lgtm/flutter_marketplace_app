@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="760" viewBox="0 0 920 760">
+<defs>
+ <linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#E7F3C3"/><stop offset="1" stop-color="#B6DE81"/></linearGradient>
+ <linearGradient id="awning" x1="0" x2="1"><stop offset="0" stop-color="#25583C"/><stop offset="1" stop-color="#3B7846"/></linearGradient>
+ <linearGradient id="shirt" x1="0" x2="1"><stop stop-color="#B7D96C"/><stop offset="1" stop-color="#90BB4C"/></linearGradient>
+ <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="16"/></filter>
+</defs>
+<!-- soft backdrop -->
+<ellipse cx="468" cy="386" rx="335" ry="300" fill="url(#g)" opacity=".85"/>
+<circle cx="150" cy="158" r="28" fill="#D7E9A4"/><circle cx="780" cy="156" r="18" fill="#D2E69A"/><circle cx="730" cy="596" r="32" fill="#E3EFC1"/>
+<path d="M134 590 Q468 626 793 583" stroke="#A1C578" stroke-width="7" stroke-linecap="round" fill="none" opacity=".6"/>
+<ellipse cx="471" cy="631" rx="275" ry="29" fill="#366B3B" opacity=".15" filter="url(#shadow)"/>
+<!-- shop building -->
+<rect x="219" y="281" width="420" height="300" rx="26" fill="#FCFFF3"/>
+<rect x="237" y="316" width="385" height="245" rx="18" fill="#F4F8E7"/>
+<rect x="271" y="360" width="205" height="156" rx="15" fill="#D8EAC0"/>
+<rect x="287" y="377" width="173" height="120" rx="10" fill="#B1D38F"/>
+<rect x="500" y="357" width="91" height="193" rx="13" fill="#2C6541"/>
+<circle cx="574" cy="455" r="5" fill="#E6F5C7"/>
+<!-- awning -->
+<rect x="195" y="237" width="466" height="65" rx="15" fill="#1E5337"/>
+<rect x="217" y="242" width="64" height="77" rx="4" fill="#F8FAEB"/>
+<rect x="281" y="242" width="64" height="77" rx="4" fill="#8FB85D"/>
+<rect x="345" y="242" width="64" height="77" rx="4" fill="#F8FAEB"/>
+<rect x="409" y="242" width="64" height="77" rx="4" fill="#8FB85D"/>
+<rect x="473" y="242" width="64" height="77" rx="4" fill="#F8FAEB"/>
+<rect x="537" y="242" width="64" height="77" rx="4" fill="#8FB85D"/>
+<rect x="601" y="242" width="40" height="77" rx="4" fill="#F8FAEB"/>
+<rect x="195" y="298" width="466" height="15" rx="7" fill="#1D5736"/>
+<rect x="311" y="177" width="234" height="70" rx="22" fill="#27613F"/>
+<rect x="333" y="193" width="189" height="38" rx="17" fill="#F2F7D7"/>
+<path d="M373 212 Q393 187 413 212 Q393 230 373 212" fill="#6AAB4C"/>
+<path d="M407 223 q23 -30 52 -11" stroke="#266340" stroke-width="8" stroke-linecap="round" fill="none"/>
+<circle cx="479" cy="212" r="6" fill="#A7CC61"/>
+<!-- booth shelves & products -->
+<rect x="244" y="503" width="268" height="77" rx="11" fill="#D2B27D"/>
+<rect x="255" y="526" width="248" height="43" rx="6" fill="#C39458"/>
+<path d="M263 528 v42 M310 528 v42 M359 528 v42 M408 528 v42 M456 528 v42" stroke="#AE7948" stroke-width="7"/>
+<circle cx="282" cy="491" r="20" fill="#F0B654"/><circle cx="312" cy="493" r="23" fill="#D86B44"/><circle cx="345" cy="486" r="23" fill="#E3AC40"/><circle cx="386" cy="492" r="24" fill="#EB7E47"/><circle cx="429" cy="492" r="23" fill="#E5B546"/>
+<path d="M287 466 q-5 -18 8 -26 M316 464 q15 -21 33 -13 M387 470 q7 -19 24 -22" stroke="#427C44" stroke-width="9" stroke-linecap="round" fill="none"/>
+<!-- person on right -->
+<ellipse cx="652" cy="594" rx="94" ry="20" fill="#2A6943" opacity=".14"/>
+<path d="M658 528 L633 620 L664 627 L698 541" fill="#254C3B"/>
+<path d="M696 532 L726 614 L755 605 L725 510" fill="#1C4537"/>
+<path d="M623 387 Q681 352 735 410 L725 533 Q681 557 639 533 Z" fill="url(#shirt)"/>
+<path d="M650 386 Q675 404 706 383" stroke="#F6C29A" stroke-width="24" fill="none" stroke-linecap="round"/>
+<circle cx="679" cy="334" r="45" fill="#F2BE92"/>
+<path d="M636 332 Q638 279 686 290 Q730 294 724 334 Q699 316 682 297 Q660 322 636 332" fill="#214936"/>
+<circle cx="668" cy="339" r="3" fill="#29503B"/><circle cx="694" cy="339" r="3" fill="#29503B"/>
+<path d="M672 359 Q680 368 692 357" stroke="#9C5F49" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+<path d="M633 430 Q586 463 544 440" stroke="#F2BE92" stroke-width="23" stroke-linecap="round" fill="none"/>
+<path d="M723 416 Q746 457 755 493" stroke="#F2BE92" stroke-width="21" stroke-linecap="round" fill="none"/>
+<!-- shopping tote -->
+<path d="M520 444 L588 441 L583 533 L512 528 Z" fill="#F5DFC1"/>
+<path d="M528 447 Q530 405 555 406 Q579 408 579 442" stroke="#AA7A57" stroke-width="9" fill="none" stroke-linecap="round"/>
+<path d="M538 488 Q548 477 559 488 Q571 476 576 492" stroke="#81B154" stroke-width="8" fill="none" stroke-linecap="round"/>
+<!-- plant on left -->
+<rect x="111" y="529" width="80" height="78" rx="15" fill="#DBB17F"/>
+<path d="M149 528 Q108 476 124 430 Q165 452 158 504 Q166 434 205 409 Q219 462 175 516 Q201 482 230 491 Q218 528 164 536" fill="#347E4B"/>
+<path d="M153 526 Q113 444 130 433 M163 518 Q183 442 204 418" stroke="#7BAD60" stroke-width="6" fill="none" stroke-linecap="round"/>
+<!-- decorative sparkles -->
+<path d="M142 302 v-27 M129 289 h26 M761 264 v-27 M748 251 h26" stroke="#E8EFC3" stroke-width="6" stroke-linecap="round"/>
+</svg>
